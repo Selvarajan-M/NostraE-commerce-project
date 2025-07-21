@@ -9,7 +9,9 @@ Nostra is a modern, responsive e-commerce website project designed and developed
 
 ## 📸 Preview
 
-![Website Preview](https://selvarajan-m.github.io/NostraE-commerce-project/assets/img/banner.jpg)
+![Website Previews](preview1.PNG)
+![Website Previews](preview2.PNG)
+![Website Previews](preview3.PNG)
 
 ---
 
